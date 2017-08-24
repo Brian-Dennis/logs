@@ -1,0 +1,41 @@
+===================== RUNNING PYTHON LOGS.PY VIEW ===================================
+vagrant@vagrant:/vagrant$ python logs.py
+
+Top three articles of all?
+
+('Candidate is jerk, alleges rival', '--', 338647L, 'views')
+('Bears love berries, alleges bear', '--', 253801L, 'views')
+('Bad things gone, say good people', '--', 170098L, 'views')
+
+Popular Articles?
+
+('Ursula La Multa', '--', Decimal('507594'), 'views')
+('Rudolf von Treppenwitz', '--', Decimal('423457'), 'views')
+('Anonymous Contributor', '--', Decimal('170098'), 'views')
+('Markoff Chaney', '--', Decimal('84557'), 'views')
+
+Errors were Over 1 percent during?
+
+(datetime.date(2016, 7, 17), '--', '2.26%', 'errors')
+
+
+================== RUNNING PYTHON3 LOGS.PY VIEW =====================================
+
+vagrant@vagrant:/vagrant$ python3 logs.py
+
+Top three articles of all?
+
+Candidate is jerk, alleges rival -- 338647 views
+Bears love berries, alleges bear -- 253801 views
+Bad things gone, say good people -- 170098 views
+
+Popular Articles?
+
+Ursula La Multa -- 507594 views
+Rudolf von Treppenwitz -- 423457 views
+Anonymous Contributor -- 170098 views
+Markoff Chaney -- 84557 views
+
+Errors were Over 1 percent during?
+
+2016-07-17 -- 2.26% errors
