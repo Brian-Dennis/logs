@@ -25,10 +25,10 @@ run ```python logs.py``` or for a better rendering view run ```python3 logs.py``
 
 I used this site as a reference to see the functions in action.
 
-W3schools Create Views - https://www.w3schools.com/sql/sql_view.asp demonstrates how to create views
-W3schools count function - https://www.w3schools.com/sql/func_mysql_count.asp demonstrates the count function
-W3schools sum function - https://www.w3schools.com/sql/func_mysql_sum.asp demonstrates the sum function
-W3schools date function - https://www.w3schools.com/sql/func_mysql_date.asp demonstrates the <code>date</code> function
+W3schools Create Views - https://www.w3schools.com/sql/sql_view.asp demonstrates how to ```create views```;
+W3schools count function - https://www.w3schools.com/sql/func_mysql_count.asp demonstrates the ```count``` function;
+W3schools sum function - https://www.w3schools.com/sql/func_mysql_sum.asp demonstrates the ```sum``` function;
+W3schools date function - https://www.w3schools.com/sql/func_mysql_date.asp demonstrates the <code>date</code> function;
 
 I also used https://www.generatedata.com/ to generate some similar mock data to the project and imported the file into pgadmin4 to then test my queries with a GUI.
 
