@@ -32,4 +32,4 @@ W3schools date function - https://www.w3schools.com/sql/func_mysql_date.asp demo
 
 I also used https://www.generatedata.com/ to generate some similar mock data to the project and imported the file into pgadmin4 to then test my queries with a GUI.
 
-That brings me to my next tool that I used which was pgadmin 4 https://www.pgadmin.org/
+That brings me to my next tool that I used which was pgadmin 4 https://www.pgadmin.org/.
