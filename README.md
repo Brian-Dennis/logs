@@ -19,7 +19,7 @@ Once you have the vagrant opened in the terminal you are going to want to run ``
 
 ## To get Results
 
-run ```python logs.py```
+run ```python logs.py``` or for a better rendering view run ```python3 logs.py```
 
 ## Credits
 
