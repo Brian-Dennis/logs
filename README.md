@@ -4,7 +4,7 @@ This project is for the Udacity Full Stack Web Developer Nanodegree program. It 
 
 ## Installation
 
-To install this all you have to do is clone this repository via ```git clone https://github.com/Brian-Dennis/logs``` or download the zip file of this repo. and make sure you have the Udacity fullstack-nanodegree-vm provided in the repo. after that you need to pull up a terminal window and go to the vagrant directory and run ```vagrant up``` then after that run ```vagrant ssh``` upon that finishing you mush ```cd vagrant/```
+To install this all you have to do is clone this repository via ```git clone https://github.com/Brian-Dennis/logs``` or download the zip file of this repo. You will also need virtualbox from https://www.virtualbox.org/wiki/Downloads, and make sure you have the Udacity fullstack-nanodegree-vm provided in this repo https://github.com/udacity/fullstack-nanodegree-vm. after that you need to pull up a terminal window and go to the vagrant directory and run ```vagrant up``` then after that run ```vagrant ssh``` upon that finishing you mush ```cd vagrant/```
 
 ## SQL CREATE VIEWS
 
